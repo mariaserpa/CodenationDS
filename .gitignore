@@ -3,6 +3,7 @@ main.py
 output.xml
 stdout.txt
 test_main.py
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
